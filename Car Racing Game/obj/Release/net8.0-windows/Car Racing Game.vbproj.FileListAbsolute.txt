@@ -1,0 +1,17 @@
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\bin\Release\net8.0-windows\Car Racing Game.exe
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\bin\Release\net8.0-windows\Car Racing Game.deps.json
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\bin\Release\net8.0-windows\Car Racing Game.runtimeconfig.json
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\bin\Release\net8.0-windows\Car Racing Game.dll
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\bin\Release\net8.0-windows\Car Racing Game.pdb
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\obj\Release\net8.0-windows\Car_Racing_Game.Form1.resources
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\obj\Release\net8.0-windows\Car_Racing_Game.Resources.resources
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\obj\Release\net8.0-windows\Car Racing Game.vbproj.GenerateResource.cache
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\obj\Release\net8.0-windows\Car Racing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\obj\Release\net8.0-windows\Car Racing Game.AssemblyInfoInputs.cache
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\obj\Release\net8.0-windows\Car Racing Game.AssemblyInfo.vb
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\obj\Release\net8.0-windows\Car Racing Game.vbproj.CoreCompileInputs.cache
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\obj\Release\net8.0-windows\Car Racing Game.dll
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\obj\Release\net8.0-windows\refint\Car Racing Game.dll
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\obj\Release\net8.0-windows\Car Racing Game.pdb
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\obj\Release\net8.0-windows\Car Racing Game.genruntimeconfig.cache
+C:\Users\PCX\Desktop\projects\Car Racing Game\Car Racing Game\obj\Release\net8.0-windows\ref\Car Racing Game.dll
