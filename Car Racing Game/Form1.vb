@@ -145,4 +145,5 @@
         InitializeComponent()
         Form1_Load(e, e)
     End Sub
+
 End Class
